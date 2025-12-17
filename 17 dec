@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+<input{
+    color:darkblue
+}
+</style>
+    <body>
+        <div class="parent">
+        <nav><a href="https://www.youtube.com/?themeRefresh=1">click</a></nav>
+        <br/>
+         <nav><a href="https://www.youtube.com/?themeRefresh=1">click</a></nav>
+         <br/>
+          <nav><a href="https://www.youtube.com/?themeRefresh=1">click</a></nav>
+        <br/>
+        </form>
+</div>
+    </body>
+</html>
+   
